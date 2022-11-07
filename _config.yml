@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saioa Manzano-Morales / My site"
+title                    : "Saioa Manzano-Morales"
 title_separator          : "-"
 name                     : &name "Saioa Manzano-Morales"
 description              : &description "BSc in Biochemisty & Molecular Biology, MSc in Computational Biology, PhD student in Genetics. Currently at Comparative Genomics Lab in the Barcelona Supercomputing Center"
