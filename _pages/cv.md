@@ -17,24 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2022 - Present: Predoctoral Researcher
+  * Comparative Genomics group, Barcelona Supercomputing Center (BSC-CNS)
+  * Wide-scale genomic analyses
+  * Supervisor: Toni Gabaldón
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* November 2021 - February 2022: JAE Intro Fellow (Consejo Superior de Investigaciones Científicas - CSIC)
+  * Biotecnología para la biomasa lignocelulósica, Centro de Investigaciones Biológicas Margarita Salas (CIB-CSIC)
+  * Bioinformatic support for a predominantly wet-lab group: Transcriptomic analyses, metabolomics,...
+  * Supervisor: Jorge Barriuso
+
+* January 2021 - September 2021: Master Student Intern
+  * Evolutionary Dynamics of Genomes, Viruses and Microbial Populations group, Center for Plant Biotechnology and Genomics (CBGP)
+  * Pangenome analysis
+  * Supervisors: Jaime Iranzo, Jaime Huerta-Cepas
 
 Publications
 ======
