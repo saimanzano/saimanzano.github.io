@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Bioinformatics Practicals - Teaching Assistant Volunteer (10h)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-fall
+venue: "Universitat Pompeu Fabra, BS in Human Biology"
+date: 2022-10-07
+location: "Barcelona, Spain"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Volunteer at the Bioinformatics Course Practicals in the BS in Human Biology at Universitat Pompeu Fabra (UPF), under the guidance of Diego Garrido Marín.
