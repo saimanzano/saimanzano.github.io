@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Comparative and Functional Genomics Practicals - Teaching Assistant Volunteer (4h)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2022-fall
+venue: "Universitat Pompeu Fabra, BS in Bioinformatics"
+date: 2022-10-07
+location: "Barcelona, Spain"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Volunteer at the Comparative and Functional Genomics Course Practicals in the BS in Bioinformatics at Universitat Pompeu Fabra (UPF), under the guidance of Toni Gabaldón.
