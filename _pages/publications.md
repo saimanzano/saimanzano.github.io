@@ -13,7 +13,7 @@ author_profile: true
 
 ## 2022
 
-**Manzano-Morales, Saioa, Yang Liu, Jaime Huerta-Cepas, and Jaime Iranzo. 2022.** *“Operational Gene Clusters and Intrinsic Uncertainty in Pangenome Analyses.”* BioRxiv 2022.09.25.509376' [pdf](https://www.biorxiv.org/content/10.1101/2022.09.25.509376v1.full.pdf)
+**Manzano-Morales, Saioa, Yang Liu, Jaime Huerta-Cepas, and Jaime Iranzo. 2022.** *“Operational Gene Clusters and Intrinsic Uncertainty in Pangenome Analyses.”* BioRxiv 2022.09.25.509376' [(pdf)](https://www.biorxiv.org/content/10.1101/2022.09.25.509376v1.full.pdf)
 
 # Posters and talks
 
@@ -30,4 +30,4 @@ Manzano-Morales Saioa, Gabaldón T "A pan-genome view of the Asgard archaea, the
 
 # Theses
 
-**Manzano-Morales, Saioa. 2021.** *"Inference and Comparison of Prokaryotic Pangenomes: Orthology vs Sequence Identity. Comparing the PanX, Eggnog-mapper and Roary Pipelines".* Master's Degree Thesis. [available here](https://oa.upm.es/69967/)
+**Manzano-Morales, Saioa. 2021.** *"Inference and Comparison of Prokaryotic Pangenomes: Orthology vs Sequence Identity. Comparing the PanX, Eggnog-mapper and Roary Pipelines".* Master's Degree Thesis. [(available here)](https://oa.upm.es/69967/)
