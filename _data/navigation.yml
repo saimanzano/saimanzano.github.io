@@ -5,6 +5,9 @@ main:
   
   - title: "Interesting resources"
     url: /resources/
+    
+  - title: "Map of congresses and conferences"
+    url: /talkmap.html
 
   #- title: "Talks and Posters"
     #url: /talks/    
