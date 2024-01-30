@@ -9,8 +9,8 @@ main:
   - title: "Map of congresses and conferences"
     url: /talkmap.html
 
-  #- title: "Talks and Posters"
-    #url: /talks/    
+  - title: "Pet projects"
+    url: /projects/    
 
   #- title: "Teaching"
     #url: /teaching/    
