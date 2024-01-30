@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Interesting resources"
+title: "Pet projects"
 author_profile: true
 ---
 
