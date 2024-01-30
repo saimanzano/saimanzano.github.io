@@ -2,15 +2,17 @@
 main:
   - title: "CV"
     url: /cv/
+    
+  - title: "Pet projects"
+    url: /projects/    
   
   - title: "Interesting resources"
     url: /resources/
     
-  - title: "Map of congresses and conferences"
+  - title: "Map of congtributions"
     url: /talkmap.html
 
-  - title: "Pet projects"
-    url: /projects/    
+ 
 
   #- title: "Teaching"
     #url: /teaching/    
