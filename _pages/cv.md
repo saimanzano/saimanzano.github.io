@@ -37,17 +37,36 @@ Work experience
 Publications
 ======
 
+## 2024
+
+**de la Fuente, I.✝, Manzano-Morales, S.✝, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
+tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. https://doi.org/10.1186/s1286
+024-10355-6
+
+**Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ https://doi.org/10.1371/journal.pbio.3002460
+
 ## 2023
 
-**Manzano-Morales S, Liu Y, González-Bodí S, Huerta-Cepas J, Iranzo J.** "Comparison of gene clustering criteria reveals intrinsic uncertainty in pangenome analyses. *Genome Biol.* 2023;24(1):250. doi:10.1186/s13059-023-03089-3 [(pdf)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03089-3)
+**Manzano-Morales, S.✝, Liu, Y.✝, González-Bodí, S., Huerta-Cepas, J., & Iranzo, J.** (2023). Comparison of gene clustering cri-
+teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1), 250._ https://doi.org/10.1186/s13059-
+023-03089-3
 
 ## 2022
 
-**Manzano-Morales S, Liu Y, Huerta-Cepas J, Iranzo J. 2022.** “Operational Gene Clusters and Intrinsic Uncertainty in Pangenome Analyses.” *BioRxiv* 2022.09.25.509376' [(pdf)](https://www.biorxiv.org/content/10.1101/2022.09.25.509376v1.full.pdf)
+**Manzano-Morales S✝, Liu Y✝, Huerta-Cepas J, Iranzo J. 2022.** “Operational Gene Clusters and Intrinsic Uncertainty in Pangenome Analyses.” *BioRxiv* 2022.09.25.509376' [(pdf)](https://www.biorxiv.org/content/10.1101/2022.09.25.509376v1.full.pdf)
 
 
 Posters and Talks
 ======
+
+## 2024 
+**Talk - 7-8 May 2024: 11th BSC Doctoral Symposium, Barcelona (Spain)**
+Manzano-Morales S, Gabaldón T. "Reconstructing prokaryotic metabolic contributions to the Last Eukaryotic Common Ancestor"
+
+
+**Poster - 17-19 January 2024: SESBE, Malaga (Spain)**
+Manzano-Morales, S, Gabaldón, T., 17-19 January 2024. "Horizontal Gene Transfer in Asgard Archaea"
+
 
 ## 2023
 
@@ -80,6 +99,9 @@ Manzano-Morales S, Gabaldón T. "A pan-genome view of the Asgard archaea, the cl
   
 Teaching
 ======
+
+## 2024
+**Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
 
 ## 2023 
 **Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra (UPF)** (Teaching Assistant)
