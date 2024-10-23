@@ -39,6 +39,12 @@ Publications
 
 ## 2024
 
+**Bernabeu, M.✝, Manzano-Morales, S.✝, & Gabaldón, T.** (2024). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.04.616067v1). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1
+
+**Bernabeu, M.✝, Manzano-Morales, S.✝, Marcet-Houben, M., & Gabaldón, T.** (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis. In Evolutionary Biology (No. biorxiv;2024.10.14.618062v2). bioRxiv. https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2
+
+**Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., Manzano-Morales, S., Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I.** (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. Advance online publication. https://doi.org/10.1093/gbe/evae224
+
 **de la Fuente, I.✝, Manzano-Morales, S.✝, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
 tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. https://doi.org/10.1186/s1286
 024-10355-6
