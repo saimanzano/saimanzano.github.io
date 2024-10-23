@@ -66,12 +66,17 @@ Posters and Talks
 ======
 
 ## 2024 
+**Poster - 30 Sept - 5 October 2024: CGUE, Sant Feliu de Guixols (Spain)**
+Manzano-Morales, S, Gabaldón, T., 17-19 January 2024. "Phylogenomics of Asgard archaea reveals pervasive horizontal gene transfer and a role of gene duplication in expanding genome size"
+
+**Talk - 20 June 2024: XXIII Jornada de Biologia Evolutiva, Barcelona (Spain)**
+Manzano-Morales S, Gabaldón T. "Unveiling the relative contribution of horizontal gene transfer and gene duplication in the genome expansion of Asgard archaea"
+
 **Talk - 7-8 May 2024: 11th BSC Doctoral Symposium, Barcelona (Spain)**
 Manzano-Morales S, Gabaldón T. "Reconstructing prokaryotic metabolic contributions to the Last Eukaryotic Common Ancestor"
 
-
 **Poster - 17-19 January 2024: SESBE, Malaga (Spain)**
-Manzano-Morales, S, Gabaldón, T., 17-19 January 2024. "Horizontal Gene Transfer in Asgard Archaea"
+Manzano-Morales, S, Gabaldón, T. "Horizontal Gene Transfer in Asgard Archaea"
 
 
 ## 2023
