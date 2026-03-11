@@ -33,6 +33,7 @@ description: "Curriculum Vitae"
 
 ## Teaching experience
 
+ * Second semester 2025: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
  * Second semester 2024: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
  * Second semester 2023: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
  * Second semester 2022: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
@@ -41,6 +42,7 @@ description: "Curriculum Vitae"
 
 ## Outreach activities 
 
+* February 2026: Life Sciences Open Day - Barcelona Supercomputing Center (Barcelona, Spain)
 * January - June 2025: Crazy About Biomedicine - IRB/Fundació Catalunya La Pedrera (Barcelona, Spain)
 * April 2023: Crazy about HPC - BSC/Fundació Catalunya La Pedrera (Barcelona, Spain)
 * February 2022: Life Sciences Open Day - Barcelona Supercomputing Center (Barcelona, Spain)
