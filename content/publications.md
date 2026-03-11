@@ -8,6 +8,10 @@ description: "Publications, posters and talks"
 
 ## Publications
 
+#### 2025
+
+* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2025). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. _Genome Biology and Evolution 17 (11), evaf190_ [<i class="material-icons">picture_as_pdf</i>](https://academic.oup.com/gbe/article-pdf/doi/10.1093/gbe/evaf190/64560261/evaf190.pdf)
+  
 #### 2024
 
 * Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., **Manzano-Morales, S.**, Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I. (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. [<i class="material-icons">link</i>](https://doi.org/10.1093/gbe/evae224)   [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/papers/QFO2024.pdf)  
@@ -36,6 +40,10 @@ teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1
 
 
 ## Talks
+
+#### 2026
+
+* **Manzano-Morales, S.✝**,  & Gabaldón, T. Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _X Congreso Bianual de la Sociedad Española de Biología Evolutiva (SESBE), 21-23 January 2026, (Valencia, Spain)_ [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/talks/2025/JBE2025.pdf)
 
 #### 2025
 
@@ -74,7 +82,6 @@ teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1
 * **Manzano-Morales, S.✝**,  & Gabaldón, T. Horizontal Gene Transfer in Asgard Archaea. _Society for Molecular Biology and Evolution (SMBE), 22-27 July 2023, (Ferrara, Italy)_ [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/posters/2023/SMBE2023.pdf)
 
 * **Guerrero, J.**, Crespo, D., Manzano-Morales, S., Prieto, A., Barriuso, J. Análisis transcriptómico de un consorcio mixto hongo-bacteria para la valorización de un residuo lignocelulósico. _XXI Congreso de la Sociedad Española de Microbiología, 25-28 June 2023 (Burgos, Spain)_
-
 
 #### 2022
 
