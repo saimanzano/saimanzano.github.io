@@ -28,19 +28,13 @@ tein analysis, ecophysiology, and reconstruction of their evolutionary history. 
 
 #### 2023
 
-**Manzano-Morales, S.✝**, Liu, Y.✝, González-Bodí, S., Huerta-Cepas, J., & Iranzo, J. (2023). Comparison of gene clustering cri-
+* **Manzano-Morales, S.✝**, Liu, Y.✝, González-Bodí, S., Huerta-Cepas, J., & Iranzo, J. (2023). Comparison of gene clustering cri-
 teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1), 250._  [<i class="material-icons">link</i>](https://doi.org/10.1186/s13059-023-03089-3)   [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/papers/Manzano-Morales2023.pdf)  
 
 
 ## Preprints
 
-
-
-
 * Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M., & Gabaldón, T. (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._bioRxiv_ [<i class="material-icons">picture_as_pdf</i>](https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2)
-
-* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2024). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. _bioRxiv_ [<i class="material-icons">picture_as_pdf</i>](https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1)
-
 
 
 ## Talks
