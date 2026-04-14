@@ -1,6 +1,6 @@
 ---
 title: "CV"
-date: 2025-08-25
+date: 2026-04-14
 hidemeta: true
 description: "Curriculum Vitae"
 ---
