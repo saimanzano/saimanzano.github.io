@@ -1,12 +1,16 @@
 ---
 title: "CV"
-date: 2025-08-25
+date: 2026-04-14
 hidemeta: true
 description: "Publications, posters and talks"
 ---
 
 
 ## Publications
+
+#### 2026
+
+** **Manzano-Morales, S.**, & Gabaldón, T. (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun_ [<i class="material-icons">picture_as_pdf</i>]([https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf))
 
 #### 2025
 
@@ -31,7 +35,7 @@ teria reveals intrinsic uncertainty in pangenome analyses. _Genome biology, 24(1
 ## Preprints
 
 
-* **Manzano-Morales, S.**, & Gabaldón, T. (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _bioRxiv_ [<i class="material-icons">picture_as_pdf</i>](https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1)
+
 
 * Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M., & Gabaldón, T. (2024). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._bioRxiv_ [<i class="material-icons">picture_as_pdf</i>](https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2)
 
