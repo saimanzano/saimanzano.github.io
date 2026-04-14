@@ -10,7 +10,7 @@ description: "Publications, posters and talks"
 
 #### 2026
 
-* **Manzano-Morales, S.**, & Gabaldón, T. (2025). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun_ [<i class="material-icons">picture_as_pdf</i>]([https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf))
+* **Manzano-Morales, S.**, & Gabaldón, T. (2026). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun_ [<i class="material-icons">picture_as_pdf</i>]([https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf))
 
 #### 2025
 
