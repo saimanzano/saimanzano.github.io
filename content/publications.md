@@ -21,7 +21,7 @@ description: "Publications, posters and talks"
 
 * Langschied, F., Bordin, N., Cosentino, S., Fuentes-Palacios, D., Glover, N., Hiller, M., Hu, Y., Huerta-Cepas, J., Coelho, L. P., Iwasaki, W., Majidian, S., **Manzano-Morales, S.**, Persson, E., Richards, T. A., Gabaldón, T., Sonnhammer, E., Thomas, P. D., Dessimoz, C., & Ebersberger, I. (2024). Quest for Orthologs in the Era of Biodiversity Genomics. _Genome biology and evolution_, evae224. [<i class="material-icons">link</i>](https://doi.org/10.1093/gbe/evae224)   [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/papers/QFO2024.pdf)  
 
-* de la Fuente, I.✝, **Manzano-Morales, S.✝**, Sanz, D., Prieto, A., & Barriuso, J.**(2024). Quorum sensing in bacteria: in silico pro-
+* de la Fuente, I.✝, **Manzano-Morales, S.✝**, Sanz, D., Prieto, A., & Barriuso, J.(2024). Quorum sensing in bacteria: in silico pro-
 tein analysis, ecophysiology, and reconstruction of their evolutionary history. _BMC genomics, 25(1), 441_. [<i class="material-icons">link</i>](https://doi.org/10.1186/s12864-024-10355-6)   [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/papers/QS24.pdf)  
 
 * Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2024). On the impact of incomplete taxon sampling on the relative timing of gene transfer events. _PLoS biology, 22(3), e3002460._ . [<i class="material-icons">link</i>](https://doi.org/10.1371/journal.pbio.3002460)   [<i class="material-icons">picture_as_pdf</i>](https://saimanzano.github.io/docs/papers/GHOST24.pdf)  
