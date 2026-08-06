@@ -9,9 +9,9 @@ description: "Publications, posters and talks"
 ## Publications
 
 #### 2026
-* Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M.✝, & Gabaldón, T. (2026). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._Nature_ (Accepted) [<i class="material-icons">picture_as_pdf</i>](https://www.biorxiv.org/content/10.1101/2024.10.14.618062v2)
+* Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M.✝, & Gabaldón, T. (2026). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._Nature_ [<i class="material-icons">picture_as_pdf</i>](https://www.nature.com/articles/s41586-026-10639-9.pdf)
 
-* **Manzano-Morales, S.**, & Gabaldón, T. (2026). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun_ [<i class="material-icons">picture_as_pdf</i>]([https://www.biorxiv.org/content/10.1101/2024.10.04.616067v1](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf))
+* **Manzano-Morales, S.**, & Gabaldón, T. (2026). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun_ [<i class="material-icons">picture_as_pdf</i>]((https://www.nature.com/articles/s41467-026-71534-5_reference.pdf))
 
 #### 2025
 
