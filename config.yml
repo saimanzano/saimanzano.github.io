@@ -21,9 +21,6 @@ menu:
         - name: Outreach
           url: outreach/
           weight: 2
-        - name: Projects
-          url: projects/
-          weight: 2
         - name: Courses
           url: courses/
           weight: 3
