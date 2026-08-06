@@ -9,13 +9,13 @@ description: "Publications, posters and talks"
 ## Publications
 
 #### 2026
-* Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M.✝, & Gabaldón, T. (2026). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._Nature_ [<i class="material-icons">picture_as_pdf</i>](https://www.nature.com/articles/s41586-026-10639-9.pdf)
+* Bernabeu, M.✝, **Manzano-Morales, S.✝**, Marcet-Houben, M.✝, & Gabaldón, T. (2026). Diverse ancestries reveal complex symbiotic interactions during eukaryogenesis._Nature_ [<i class="material-icons">link</i>](https://www.nature.com/articles/s41586-026-10639-9) [<i class="material-icons">picture_as_pdf</i>](https://www.nature.com/articles/s41586-026-10639-9.pdf)
 
-* **Manzano-Morales, S.**, & Gabaldón, T. (2026). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun 17, 5103_ [<i class="material-icons">picture_as_pdf</i>](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf)
+* **Manzano-Morales, S.**, & Gabaldón, T. (2026). Phylogenomics of Asgard archaea reveals a unique blend of prokaryotic-like horizontal transfer and eukaryotic-like gene duplication. _Nat Commun 17, 5103_ [<i class="material-icons">link</i>](https://www.nature.com/articles/s41467-026-71534-5) [<i class="material-icons">picture_as_pdf</i>](https://www.nature.com/articles/s41467-026-71534-5_reference.pdf)
 
 #### 2025
 
-* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2025). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. _Genome Biology and Evolution 17 (11), evaf190_ [<i class="material-icons">picture_as_pdf</i>](https://academic.oup.com/gbe/article-pdf/doi/10.1093/gbe/evaf190/64560261/evaf190.pdf)
+* Bernabeu, M.✝, **Manzano-Morales, S.✝**, & Gabaldón, T. (2025). Phylogeny-aware simulations suggest a low impact of unsampled lineages in the inference of gene flow during eukaryogenesis. _Genome Biology and Evolution 17 (11), evaf190_ [<i class="material-icons">link</i>](https://academic.oup.com/gbe/article/17/11/evaf190/8277965) [<i class="material-icons">picture_as_pdf</i>](https://academic.oup.com/gbe/article-pdf/doi/10.1093/gbe/evaf190/64560261/evaf190.pdf)
   
 #### 2024
 
