@@ -33,11 +33,16 @@ description: "Curriculum Vitae"
 
 ## Teaching experience
 
- * Second semester 2025: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
- * Second semester 2024: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
- * Second semester 2023: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
- * Second semester 2022: Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
- * First semester 2022: Bioinformatics, BS Biology, Universitat Pompeu Fabra. (Teaching Assistant)
+ * Comparative and Functional Genomics, BS Bioinformatics, Universitat Pompeu Fabra. (Teaching Assistant)
+   2021 - 2022: 12h
+   2022 - 2023: 16h
+   2023 - 2024: 16h
+
+ * Bioinformatics, BS Human Biology, Universitat Pompeu Fabra. (Teaching Assistant)
+   2022 - 2023: 10h
+   2023 - 2024: 4h
+   2025 - 2026: 4h
+
 
 
 ## Outreach activities 
